@@ -1,0 +1,15 @@
+{"time":"2025-02-11T19:37:45.635488662-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_1/solution/wandb/run-20250211_193745-mew15pra/logs/debug-core.log"}
+{"time":"2025-02-11T19:37:45.950866434-06:00","level":"INFO","msg":"created new stream","id":"mew15pra"}
+{"time":"2025-02-11T19:37:45.950899606-06:00","level":"INFO","msg":"stream: started","id":"mew15pra"}
+{"time":"2025-02-11T19:37:45.950930357-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"mew15pra"}
+{"time":"2025-02-11T19:37:45.95104564-06:00","level":"INFO","msg":"handler: started","stream_id":"mew15pra"}
+{"time":"2025-02-11T19:37:45.951279599-06:00","level":"INFO","msg":"sender: started","stream_id":"mew15pra"}
+{"time":"2025-02-11T19:37:46.211757942-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-11T19:37:46.493528212-06:00","level":"INFO","msg":"stream: closing","id":"mew15pra"}
+{"time":"2025-02-11T19:37:46.493849585-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-11T19:37:46.4944801-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-11T19:37:46.847786634-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-11T19:37:46.948075534-06:00","level":"INFO","msg":"handler: closed","stream_id":"mew15pra"}
+{"time":"2025-02-11T19:37:46.948088694-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mew15pra"}
+{"time":"2025-02-11T19:37:46.948131934-06:00","level":"INFO","msg":"sender: closed","stream_id":"mew15pra"}
+{"time":"2025-02-11T19:37:46.948139329-06:00","level":"INFO","msg":"stream: closed","id":"mew15pra"}
