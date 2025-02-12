@@ -1,0 +1,13 @@
+2025-02-12 10:46:46,186 Getting artifact
+Traceback (most recent call last):
+  File "use_artifact.py", line 42, in <module>
+    go(args)
+  File "use_artifact.py", line 22, in go
+    artifact_path = artifact.file()
+NameError: name 'artifact' is not defined
+Traceback (most recent call last):
+  File "use_artifact.py", line 42, in <module>
+    go(args)
+  File "use_artifact.py", line 22, in go
+    artifact_path = artifact.file()
+NameError: name 'artifact' is not defined

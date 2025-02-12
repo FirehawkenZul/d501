@@ -1,0 +1,15 @@
+{"time":"2025-02-12T10:37:25.912297409-06:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/wandb/run-20250212_103725-yuxwarqp/logs/debug-core.log"}
+{"time":"2025-02-12T10:37:26.126298473-06:00","level":"INFO","msg":"created new stream","id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:26.126330893-06:00","level":"INFO","msg":"stream: started","id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:26.126360071-06:00","level":"INFO","msg":"writer: Do: started","stream_id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:26.126389799-06:00","level":"INFO","msg":"sender: started","stream_id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:26.127299006-06:00","level":"INFO","msg":"handler: started","stream_id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:26.313256775-06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-12T10:37:26.519787635-06:00","level":"INFO","msg":"stream: closing","id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:26.519821644-06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-12T10:37:26.520181256-06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-12T10:37:26.917610044-06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-12T10:37:27.036533949-06:00","level":"INFO","msg":"handler: closed","stream_id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:27.036614135-06:00","level":"INFO","msg":"sender: closed","stream_id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:27.036612941-06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yuxwarqp"}
+{"time":"2025-02-12T10:37:27.036692971-06:00","level":"INFO","msg":"stream: closed","id":"yuxwarqp"}
