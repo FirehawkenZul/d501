@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/a41a941580374054ae418351ca226375/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a41a941580374054ae418351ca226375
+run_name: merciful-stork-524
+run_uuid: a41a941580374054ae418351ca226375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739395577540
+status: 1
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/2aed5b7d7bfb49afa108ab1b093b0fee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aed5b7d7bfb49afa108ab1b093b0fee
+run_name: suave-koi-105
+run_uuid: 2aed5b7d7bfb49afa108ab1b093b0fee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739395630617
+status: 1
+tags: []
+user_id: chase
