@@ -1,0 +1,137 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-02-12T23:04:40.365610",
+    "startedAt": "2025-02-12T23:04:39.901668",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "clean_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Cleaned data"
+    ],
+    "state": "running",
+    "program": "/home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data/run.py",
+    "git": {
+        "remote": "https://github.com/FirehawkenZul/d501.git",
+        "commit": "682d22e737ef99c30232dc2dadb888ccff8e3397"
+    },
+    "email": "65619923+FirehawkenZul@users.noreply.github.com",
+    "root": "/home/chase/d501",
+    "host": "CHASE-DT",
+    "username": "chase",
+    "executable": "/home/chase/miniconda3/envs/mlflow-f3dbdf318eac2492665afd579a1f2a4bad45ed77/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4691.086,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.086,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 10.345535278320312
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.183914184570312
+    }
+}

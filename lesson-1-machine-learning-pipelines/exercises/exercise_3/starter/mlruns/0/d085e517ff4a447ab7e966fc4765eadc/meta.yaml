@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/d085e517ff4a447ab7e966fc4765eadc/artifacts
+end_time: 1739401450669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d085e517ff4a447ab7e966fc4765eadc
+run_name: carefree-grub-702
+run_uuid: d085e517ff4a447ab7e966fc4765eadc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739401364755
+status: 3
+tags: []
+user_id: chase

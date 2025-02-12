@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/6f2ea9b501e940d6ba6322b65822368f/artifacts
+end_time: 1739402321078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f2ea9b501e940d6ba6322b65822368f
+run_name: polite-wasp-289
+run_uuid: 6f2ea9b501e940d6ba6322b65822368f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739402308753
+status: 3
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/00ec0f1f6e6c4b968e9863abc8adcd07/artifacts
+end_time: 1739402290813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00ec0f1f6e6c4b968e9863abc8adcd07
+run_name: burly-mole-721
+run_uuid: 00ec0f1f6e6c4b968e9863abc8adcd07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739402278099
+status: 3
+tags: []
+user_id: chase

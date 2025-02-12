@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/644bb8a0cddc4dffb77976be73c3ad00/artifacts
+end_time: 1739402290874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 644bb8a0cddc4dffb77976be73c3ad00
+run_name: valuable-steed-934
+run_uuid: 644bb8a0cddc4dffb77976be73c3ad00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739402263718
+status: 3
+tags: []
+user_id: chase

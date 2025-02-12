@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/4ee51ef195df49faade45bcb007d9e80/artifacts
+end_time: 1739401398666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ee51ef195df49faade45bcb007d9e80
+run_name: fun-cod-75
+run_uuid: 4ee51ef195df49faade45bcb007d9e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739401388477
+status: 3
+tags: []
+user_id: chase

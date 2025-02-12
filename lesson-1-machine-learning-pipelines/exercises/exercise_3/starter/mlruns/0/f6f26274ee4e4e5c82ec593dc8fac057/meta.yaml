@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/f6f26274ee4e4e5c82ec593dc8fac057/artifacts
+end_time: 1739401278166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6f26274ee4e4e5c82ec593dc8fac057
+run_name: youthful-midge-351
+run_uuid: f6f26274ee4e4e5c82ec593dc8fac057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739401276515
+status: 4
+tags: []
+user_id: chase
