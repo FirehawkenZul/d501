@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_9/starter/mlruns/0/ad818a083d03489f96249b57265c5e17/artifacts
+end_time: 1739574530105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad818a083d03489f96249b57265c5e17
+run_name: nimble-robin-222
+run_uuid: ad818a083d03489f96249b57265c5e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739574521144
+status: 4
+tags: []
+user_id: chase

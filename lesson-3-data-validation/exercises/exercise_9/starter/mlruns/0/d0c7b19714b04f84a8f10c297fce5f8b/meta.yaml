@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_9/starter/mlruns/0/d0c7b19714b04f84a8f10c297fce5f8b/artifacts
+end_time: 1739574566436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0c7b19714b04f84a8f10c297fce5f8b
+run_name: lyrical-carp-991
+run_uuid: d0c7b19714b04f84a8f10c297fce5f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739574559133
+status: 4
+tags: []
+user_id: chase
