@@ -1,0 +1,22 @@
+diff --git a/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject b/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject
+index e69de29..2ee1457 100644
+--- a/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject
++++ b/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/MLproject
+@@ -0,0 +1,7 @@
++name: exercise_4
++conda_env: conda.yml
++
++entry_points:
++  main:
++    command: >-
++      jupyter-lab
+\ No newline at end of file
+diff --git a/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/conda.yml b/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/conda.yml
+index 6e82736..37a29ba 100644
+--- a/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/conda.yml
++++ b/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/conda.yml
+@@ -11,3 +11,4 @@ dependencies:
+   - pyarrow=14.0.2
+   - pip:
+       - wandb==0.16.4
++      - ipywidgets

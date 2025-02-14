@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/c8ad4927138d4fe58707066311ed8646/artifacts
+end_time: 1739553606710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8ad4927138d4fe58707066311ed8646
+run_name: bold-owl-137
+run_uuid: c8ad4927138d4fe58707066311ed8646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739553073474
+status: 3
+tags: []
+user_id: chase

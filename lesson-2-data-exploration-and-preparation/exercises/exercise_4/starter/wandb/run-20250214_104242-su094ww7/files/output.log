@@ -1,0 +1,7 @@
+
+./artifacts/genres_mod.parquet:latest/genres_mod.parquet
+
+
+Summarize dataset: 100%|█████████████████████████████████████████████████████████████████| 148/148 [00:05<00:00, 25.87it/s, Completed]
+
+Generate report structure: 100%|████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.96s/it]
