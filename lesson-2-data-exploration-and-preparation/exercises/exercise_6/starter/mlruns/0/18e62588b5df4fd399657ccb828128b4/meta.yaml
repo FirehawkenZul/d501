@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-2-data-exploration-and-preparation/exercises/exercise_6/starter/mlruns/0/18e62588b5df4fd399657ccb828128b4/artifacts
+end_time: 1739561253491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18e62588b5df4fd399657ccb828128b4
+run_name: funny-stork-231
+run_uuid: 18e62588b5df4fd399657ccb828128b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739561221898
+status: 3
+tags: []
+user_id: chase
