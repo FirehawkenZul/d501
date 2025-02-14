@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_8/starter/mlruns/0/7db0878d382049f780650247f0867df9/artifacts
+end_time: 1739573012910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7db0878d382049f780650247f0867df9
+run_name: worried-lark-66
+run_uuid: 7db0878d382049f780650247f0867df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739572989833
+status: 4
+tags: []
+user_id: chase

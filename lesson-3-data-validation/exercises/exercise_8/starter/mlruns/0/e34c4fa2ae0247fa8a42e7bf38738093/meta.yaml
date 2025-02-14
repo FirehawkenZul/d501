@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_8/starter/mlruns/0/e34c4fa2ae0247fa8a42e7bf38738093/artifacts
+end_time: 1739573130104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e34c4fa2ae0247fa8a42e7bf38738093
+run_name: languid-bass-347
+run_uuid: e34c4fa2ae0247fa8a42e7bf38738093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739573121404
+status: 4
+tags: []
+user_id: chase

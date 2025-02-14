@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_8/starter/mlruns/0/c79fa5efdf8b43fb8cbd919133540339/artifacts
+end_time: 1739573587713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c79fa5efdf8b43fb8cbd919133540339
+run_name: welcoming-tern-158
+run_uuid: c79fa5efdf8b43fb8cbd919133540339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739573579336
+status: 4
+tags: []
+user_id: chase

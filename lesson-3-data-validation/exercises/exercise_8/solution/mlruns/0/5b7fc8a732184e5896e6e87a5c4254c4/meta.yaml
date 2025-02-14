@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_8/solution/mlruns/0/5b7fc8a732184e5896e6e87a5c4254c4/artifacts
+end_time: 1739573400296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b7fc8a732184e5896e6e87a5c4254c4
+run_name: popular-wolf-677
+run_uuid: 5b7fc8a732184e5896e6e87a5c4254c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739573391880
+status: 4
+tags: []
+user_id: chase
