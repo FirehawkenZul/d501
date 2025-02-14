@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-3-data-validation/exercises/exercise_7/starter/mlruns/0/9ab765a607ad42519295ee32fed6f631/artifacts
+end_time: 1739568994655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ab765a607ad42519295ee32fed6f631
+run_name: victorious-sloth-953
+run_uuid: 9ab765a607ad42519295ee32fed6f631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739568971450
+status: 3
+tags: []
+user_id: chase
