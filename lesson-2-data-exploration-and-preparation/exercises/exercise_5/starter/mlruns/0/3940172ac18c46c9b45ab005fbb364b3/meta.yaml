@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-2-data-exploration-and-preparation/exercises/exercise_5/starter/mlruns/0/3940172ac18c46c9b45ab005fbb364b3/artifacts
+end_time: 1739559522824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3940172ac18c46c9b45ab005fbb364b3
+run_name: trusting-stag-132
+run_uuid: 3940172ac18c46c9b45ab005fbb364b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739559492045
+status: 3
+tags: []
+user_id: chase
