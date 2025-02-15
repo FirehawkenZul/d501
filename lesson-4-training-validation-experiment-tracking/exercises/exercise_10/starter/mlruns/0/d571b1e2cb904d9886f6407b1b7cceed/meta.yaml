@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/d571b1e2cb904d9886f6407b1b7cceed/artifacts
+end_time: 1739650311725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d571b1e2cb904d9886f6407b1b7cceed
+run_name: loud-eel-710
+run_uuid: d571b1e2cb904d9886f6407b1b7cceed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739650310366
+status: 4
+tags: []
+user_id: chase
