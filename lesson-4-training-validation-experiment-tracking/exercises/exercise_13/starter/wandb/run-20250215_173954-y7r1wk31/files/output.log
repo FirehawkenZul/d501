@@ -1,0 +1,10 @@
+2025-02-15 17:39:56,359 Downloading and reading test artifact
+2025-02-15 17:39:56,847 Extracting target from dataframe
+2025-02-15 17:39:56,850 Downloading and reading the exported model
+[34m[1mwandb[39m[22m:   6 of 6 files downloaded.
+Traceback (most recent call last):
+  File "/home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/run.py", line 98, in <module>
+    go(args)
+  File "/home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/run.py", line 37, in go
+    pred_proba = pipe.predict_probea(X_test)
+AttributeError: 'Pipeline' object has no attribute 'predict_probea'

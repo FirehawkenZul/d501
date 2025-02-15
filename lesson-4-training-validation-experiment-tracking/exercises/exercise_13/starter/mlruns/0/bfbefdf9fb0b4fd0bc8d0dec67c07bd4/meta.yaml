@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/mlruns/0/bfbefdf9fb0b4fd0bc8d0dec67c07bd4/artifacts
+end_time: 1739662802819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfbefdf9fb0b4fd0bc8d0dec67c07bd4
+run_name: debonair-bird-5
+run_uuid: bfbefdf9fb0b4fd0bc8d0dec67c07bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739662791577
+status: 4
+tags: []
+user_id: chase

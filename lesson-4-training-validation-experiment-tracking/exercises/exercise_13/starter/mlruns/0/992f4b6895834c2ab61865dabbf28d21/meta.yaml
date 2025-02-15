@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_13/starter/mlruns/0/992f4b6895834c2ab61865dabbf28d21/artifacts
+end_time: 1739662854582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 992f4b6895834c2ab61865dabbf28d21
+run_name: selective-croc-411
+run_uuid: 992f4b6895834c2ab61865dabbf28d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739662843283
+status: 3
+tags: []
+user_id: chase

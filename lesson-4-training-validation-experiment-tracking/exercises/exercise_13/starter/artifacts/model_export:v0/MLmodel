@@ -1,0 +1,39 @@
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+mlflow_version: 2.12.1
+model_size_bytes: 5596213
+model_uuid: 3603baf87efe43c4a825aac686e85a7d
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Unnamed: 0.1", "required": true}, {"type": "long",
+    "name": "Unnamed: 0", "required": true}, {"type": "double", "name": "danceability",
+    "required": true}, {"type": "double", "name": "energy", "required": true}, {"type":
+    "long", "name": "key", "required": true}, {"type": "double", "name": "loudness",
+    "required": false}, {"type": "long", "name": "mode", "required": true}, {"type":
+    "double", "name": "speechiness", "required": true}, {"type": "double", "name":
+    "acousticness", "required": true}, {"type": "double", "name": "instrumentalness",
+    "required": true}, {"type": "double", "name": "liveness", "required": true}, {"type":
+    "double", "name": "valence", "required": true}, {"type": "double", "name": "tempo",
+    "required": true}, {"type": "string", "name": "type", "required": true}, {"type":
+    "long", "name": "duration_ms", "required": true}, {"type": "long", "name": "time_signature",
+    "required": true}, {"type": "string", "name": "song_name", "required": false},
+    {"type": "string", "name": "title", "required": false}, {"type": "string", "name":
+    "text_feature", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-02-15 23:24:08.300857'
