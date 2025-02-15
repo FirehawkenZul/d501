@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/c997025737a642c4887d7bb776ece27f/artifacts
+end_time: 1739656699380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c997025737a642c4887d7bb776ece27f
+run_name: redolent-koi-519
+run_uuid: c997025737a642c4887d7bb776ece27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739656636191
+status: 3
+tags: []
+user_id: chase

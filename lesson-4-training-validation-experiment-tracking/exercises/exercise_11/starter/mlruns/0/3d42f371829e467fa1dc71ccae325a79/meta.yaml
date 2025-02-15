@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/3d42f371829e467fa1dc71ccae325a79/artifacts
+end_time: 1739658381839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d42f371829e467fa1dc71ccae325a79
+run_name: luxuriant-conch-520
+run_uuid: 3d42f371829e467fa1dc71ccae325a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658325399
+status: 3
+tags: []
+user_id: chase

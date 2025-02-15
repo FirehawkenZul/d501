@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/5858706a71cf48e89d928b47ebf0a40b/artifacts
+end_time: 1739658421726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5858706a71cf48e89d928b47ebf0a40b
+run_name: wistful-midge-435
+run_uuid: 5858706a71cf48e89d928b47ebf0a40b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658369898
+status: 3
+tags: []
+user_id: chase

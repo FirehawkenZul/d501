@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/4b39595611174a3099452a4e4e10435f/artifacts
+end_time: 1739658341259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b39595611174a3099452a4e4e10435f
+run_name: classy-seal-772
+run_uuid: 4b39595611174a3099452a4e4e10435f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292432
+status: 3
+tags: []
+user_id: chase

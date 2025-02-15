@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/2810ee30b9094db7bbb26a932ce469ea/artifacts
+end_time: 1739658318503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2810ee30b9094db7bbb26a932ce469ea
+run_name: puzzled-whale-871
+run_uuid: 2810ee30b9094db7bbb26a932ce469ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292405
+status: 3
+tags: []
+user_id: chase

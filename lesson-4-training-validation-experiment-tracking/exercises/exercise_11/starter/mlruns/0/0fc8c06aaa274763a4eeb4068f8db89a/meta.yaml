@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/0fc8c06aaa274763a4eeb4068f8db89a/artifacts
+end_time: 1739658387129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fc8c06aaa274763a4eeb4068f8db89a
+run_name: kindly-moose-220
+run_uuid: 0fc8c06aaa274763a4eeb4068f8db89a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658330666
+status: 3
+tags: []
+user_id: chase

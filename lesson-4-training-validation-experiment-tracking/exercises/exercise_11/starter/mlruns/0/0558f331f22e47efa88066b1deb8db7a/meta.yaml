@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/0558f331f22e47efa88066b1deb8db7a/artifacts
+end_time: 1739658336733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0558f331f22e47efa88066b1deb8db7a
+run_name: legendary-cat-743
+run_uuid: 0558f331f22e47efa88066b1deb8db7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292441
+status: 3
+tags: []
+user_id: chase

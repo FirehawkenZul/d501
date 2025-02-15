@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/febb62016e8949bdb716423d36ac8f6e/artifacts
+end_time: 1739658398108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: febb62016e8949bdb716423d36ac8f6e
+run_name: treasured-zebra-834
+run_uuid: febb62016e8949bdb716423d36ac8f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658341352
+status: 3
+tags: []
+user_id: chase

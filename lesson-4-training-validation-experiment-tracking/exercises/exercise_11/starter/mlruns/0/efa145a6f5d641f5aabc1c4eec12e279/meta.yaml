@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/efa145a6f5d641f5aabc1c4eec12e279/artifacts
+end_time: 1739658365288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efa145a6f5d641f5aabc1c4eec12e279
+run_name: polite-ray-622
+run_uuid: efa145a6f5d641f5aabc1c4eec12e279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658317436
+status: 3
+tags: []
+user_id: chase

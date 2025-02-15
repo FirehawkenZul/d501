@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/07c1fd962e8b4400aa6c0fa5599813b8/artifacts
+end_time: 1739658376302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07c1fd962e8b4400aa6c0fa5599813b8
+run_name: magnificent-owl-414
+run_uuid: 07c1fd962e8b4400aa6c0fa5599813b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658325308
+status: 3
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/38de1d6b85014f78836c185c650f3a15/artifacts
+end_time: 1739658385917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38de1d6b85014f78836c185c650f3a15
+run_name: glamorous-carp-778
+run_uuid: 38de1d6b85014f78836c185c650f3a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658331261
+status: 3
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f3317c064cf94518b718db1c26aeab28/artifacts
+end_time: 1739658330567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3317c064cf94518b718db1c26aeab28
+run_name: lyrical-yak-802
+run_uuid: f3317c064cf94518b718db1c26aeab28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292428
+status: 3
+tags: []
+user_id: chase

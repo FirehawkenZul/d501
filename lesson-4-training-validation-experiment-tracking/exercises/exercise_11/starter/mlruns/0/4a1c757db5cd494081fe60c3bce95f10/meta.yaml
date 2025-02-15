@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/4a1c757db5cd494081fe60c3bce95f10/artifacts
+end_time: 1739656699329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a1c757db5cd494081fe60c3bce95f10
+run_name: amusing-shoat-48
+run_uuid: 4a1c757db5cd494081fe60c3bce95f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739656660965
+status: 3
+tags: []
+user_id: chase

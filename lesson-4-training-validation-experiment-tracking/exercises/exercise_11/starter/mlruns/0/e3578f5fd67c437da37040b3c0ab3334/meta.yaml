@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e3578f5fd67c437da37040b3c0ab3334/artifacts
+end_time: 1739658419084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3578f5fd67c437da37040b3c0ab3334
+run_name: adaptable-ram-581
+run_uuid: e3578f5fd67c437da37040b3c0ab3334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658367994
+status: 3
+tags: []
+user_id: chase

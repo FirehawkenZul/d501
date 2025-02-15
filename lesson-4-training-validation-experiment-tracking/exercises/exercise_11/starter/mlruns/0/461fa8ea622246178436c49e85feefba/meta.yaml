@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/461fa8ea622246178436c49e85feefba/artifacts
+end_time: 1739658320049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 461fa8ea622246178436c49e85feefba
+run_name: lyrical-eel-759
+run_uuid: 461fa8ea622246178436c49e85feefba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292405
+status: 3
+tags: []
+user_id: chase

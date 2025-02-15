@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f891e0e3196e4e1a8b18c921e0cb34a0/artifacts
+end_time: 1739658367916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f891e0e3196e4e1a8b18c921e0cb34a0
+run_name: rumbling-shrike-137
+run_uuid: f891e0e3196e4e1a8b18c921e0cb34a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658319969
+status: 3
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/26c57491d7404b65975f90dd777c3f1e/artifacts
+end_time: 1739658392637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26c57491d7404b65975f90dd777c3f1e
+run_name: carefree-snake-882
+run_uuid: 26c57491d7404b65975f90dd777c3f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658336813
+status: 3
+tags: []
+user_id: chase

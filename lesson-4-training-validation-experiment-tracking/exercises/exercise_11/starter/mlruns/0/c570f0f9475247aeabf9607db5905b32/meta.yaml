@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/c570f0f9475247aeabf9607db5905b32/artifacts
+end_time: 1739658316700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c570f0f9475247aeabf9607db5905b32
+run_name: thundering-mink-738
+run_uuid: c570f0f9475247aeabf9607db5905b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292405
+status: 3
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/c3d4f89c8d5b49debe309e5817a4a73e/artifacts
+end_time: 1739658319858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3d4f89c8d5b49debe309e5817a4a73e
+run_name: legendary-snipe-224
+run_uuid: c3d4f89c8d5b49debe309e5817a4a73e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292405
+status: 3
+tags: []
+user_id: chase

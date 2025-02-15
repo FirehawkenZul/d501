@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e3810c59922745b690a5703a8d4bbd14/artifacts
+end_time: 1739656724035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3810c59922745b690a5703a8d4bbd14
+run_name: languid-hog-346
+run_uuid: e3810c59922745b690a5703a8d4bbd14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739656710639
+status: 3
+tags: []
+user_id: chase

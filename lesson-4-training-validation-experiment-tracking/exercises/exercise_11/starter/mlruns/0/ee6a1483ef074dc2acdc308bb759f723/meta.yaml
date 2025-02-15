@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/ee6a1483ef074dc2acdc308bb759f723/artifacts
+end_time: 1739656745944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee6a1483ef074dc2acdc308bb759f723
+run_name: luminous-snake-145
+run_uuid: ee6a1483ef074dc2acdc308bb759f723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739656737046
+status: 3
+tags: []
+user_id: chase

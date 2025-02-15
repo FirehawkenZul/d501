@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/f6d89e1d489a466f831c0db53d5d6338/artifacts
+end_time: 1739658325330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6d89e1d489a466f831c0db53d5d6338
+run_name: bald-grub-335
+run_uuid: f6d89e1d489a466f831c0db53d5d6338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292405
+status: 3
+tags: []
+user_id: chase

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/b2acd2f7e35d4aeea301f5001b466db5/artifacts
+end_time: 1739656794680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2acd2f7e35d4aeea301f5001b466db5
+run_name: industrious-ray-341
+run_uuid: b2acd2f7e35d4aeea301f5001b466db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739656735455
+status: 3
+tags: []
+user_id: chase

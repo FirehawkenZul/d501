@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/af55515a3211473dad98ceb0c5b6f109/artifacts
+end_time: 1739658337371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af55515a3211473dad98ceb0c5b6f109
+run_name: redolent-shrike-146
+run_uuid: af55515a3211473dad98ceb0c5b6f109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658292421
+status: 3
+tags: []
+user_id: chase

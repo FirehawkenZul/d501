@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/e852ae15ede847cbb217d4805c73c206/artifacts
+end_time: 1739658426796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e852ae15ede847cbb217d4805c73c206
+run_name: nervous-hog-431
+run_uuid: e852ae15ede847cbb217d4805c73c206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739658381917
+status: 3
+tags: []
+user_id: chase
