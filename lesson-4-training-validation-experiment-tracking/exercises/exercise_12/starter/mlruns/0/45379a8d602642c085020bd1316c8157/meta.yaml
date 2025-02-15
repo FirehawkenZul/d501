@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/45379a8d602642c085020bd1316c8157/artifacts
+end_time: 1739661776137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45379a8d602642c085020bd1316c8157
+run_name: melodic-cub-494
+run_uuid: 45379a8d602642c085020bd1316c8157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739661754597
+status: 4
+tags: []
+user_id: chase

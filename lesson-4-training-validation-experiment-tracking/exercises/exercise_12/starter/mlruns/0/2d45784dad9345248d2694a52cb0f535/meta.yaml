@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/2d45784dad9345248d2694a52cb0f535/artifacts
+end_time: 1739661860749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d45784dad9345248d2694a52cb0f535
+run_name: enchanting-cub-49
+run_uuid: 2d45784dad9345248d2694a52cb0f535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739661833695
+status: 3
+tags: []
+user_id: chase

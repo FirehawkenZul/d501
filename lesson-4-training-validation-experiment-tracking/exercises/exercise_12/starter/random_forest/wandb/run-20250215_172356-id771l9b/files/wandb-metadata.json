@@ -1,0 +1,135 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-02-15T23:23:56.855240",
+    "startedAt": "2025-02-15T23:23:56.331610",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "exercise_6/data_train.csv:latest",
+        "--model_config",
+        "/home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/outputs/2025-02-15/17-23-53/random_forest_config.yml",
+        "--export_artifact",
+        "model_export"
+    ],
+    "state": "running",
+    "program": "/home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/FirehawkenZul/d501.git",
+        "commit": "6f313cf350b494ccc10391e23c7d60aa3063d087"
+    },
+    "email": "65619923+FirehawkenZul@users.noreply.github.com",
+    "root": "/home/chase/d501",
+    "host": "CHASE-DT",
+    "username": "chase",
+    "executable": "/home/chase/miniconda3/envs/mlflow-6717dc0f6a1cc0c3a536251c776da0927850168d/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 4691.11,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 4691.11,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 17.29395294189453
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 15.183914184570312
+    }
+}

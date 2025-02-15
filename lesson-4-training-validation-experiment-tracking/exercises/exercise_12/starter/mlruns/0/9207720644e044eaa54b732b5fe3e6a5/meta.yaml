@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_12/starter/mlruns/0/9207720644e044eaa54b732b5fe3e6a5/artifacts
+end_time: 1739661776210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9207720644e044eaa54b732b5fe3e6a5
+run_name: smiling-stoat-104
+run_uuid: 9207720644e044eaa54b732b5fe3e6a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739661729654
+status: 4
+tags: []
+user_id: chase
