@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/solution/mlruns/0/4f6c27cfd16c49fca8820e3ca62e43c9/artifacts
+end_time: 1739670830961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f6c27cfd16c49fca8820e3ca62e43c9
+run_name: thundering-stoat-416
+run_uuid: 4f6c27cfd16c49fca8820e3ca62e43c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739670820372
+status: 4
+tags: []
+user_id: chase

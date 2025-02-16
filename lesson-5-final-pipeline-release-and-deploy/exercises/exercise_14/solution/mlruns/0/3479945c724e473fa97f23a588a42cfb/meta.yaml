@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/solution/mlruns/0/3479945c724e473fa97f23a588a42cfb/artifacts
+end_time: 1739670800319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3479945c724e473fa97f23a588a42cfb
+run_name: honorable-shrimp-612
+run_uuid: 3479945c724e473fa97f23a588a42cfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739670778677
+status: 3
+tags: []
+user_id: chase
