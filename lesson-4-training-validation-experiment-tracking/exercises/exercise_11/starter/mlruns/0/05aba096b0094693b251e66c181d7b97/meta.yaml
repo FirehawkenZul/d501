@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chase/d501/lesson-4-training-validation-experiment-tracking/exercises/exercise_11/starter/mlruns/0/05aba096b0094693b251e66c181d7b97/artifacts
+end_time: 1739672152942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05aba096b0094693b251e66c181d7b97
+run_name: sedate-stoat-444
+run_uuid: 05aba096b0094693b251e66c181d7b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739672107917
+status: 3
+tags: []
+user_id: chase
